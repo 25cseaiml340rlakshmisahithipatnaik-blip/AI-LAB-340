@@ -1,0 +1,7 @@
+Enter capacity of jug 1: Enter capacity of jug 2: Enter target amount: 
+Steps to reach the target:
+(0, 0)
+(0, 3)
+(3, 0)
+(3, 3)
+(4, 2)

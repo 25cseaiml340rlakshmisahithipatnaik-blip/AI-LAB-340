@@ -1,0 +1,4 @@
+Enter the number of cities: Enter the cost matrix (one row per line):
+Row 0: Row 1: Row 2: Row 3: Enter the starting city (0 to 3): 
+Optimal Path: 0 -> 1 -> 3 -> 2 -> 0
+Minimum Cost: 80

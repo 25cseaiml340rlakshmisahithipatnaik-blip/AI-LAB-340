@@ -1,0 +1,2 @@
+Enter 8 leaf node values separated by spaces: 
+Optimal Value: 5

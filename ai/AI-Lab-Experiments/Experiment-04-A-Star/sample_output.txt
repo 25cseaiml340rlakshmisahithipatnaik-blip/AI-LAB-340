@@ -1,0 +1,14 @@
+Enter number of nodes: 
+Enter node names:
+Node 1: Node 2: Node 3: Node 4: 
+Enter number of edges: Enter each directed edge as source, destination, and cost.
+
+Edge 1 source: Edge 1 destination: Cost: 
+Edge 2 source: Edge 2 destination: Cost: 
+Edge 3 source: Edge 3 destination: Cost: 
+Edge 4 source: Edge 4 destination: Cost: 
+Enter heuristic values h(n):
+h(A): h(B): h(C): h(D): 
+Enter start node: Enter goal node: 
+Shortest Path: A -> B -> D
+Total Cost: 3

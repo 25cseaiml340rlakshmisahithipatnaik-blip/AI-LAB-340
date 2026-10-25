@@ -1,0 +1,6 @@
+----- Build your graph -----
+How many edges does your graph have? Enter each edge separated by a space:
+Edge 1: Edge 2: Edge 3: Edge 4: Edge 5: Enter the starting node for BFS: 
+Your graph dictionary: {'A': ['B', 'C'], 'B': ['A', 'D', 'E'], 'C': ['A', 'F'], 'D': ['B'], 'E': ['B'], 'F': ['C']}
+Starting BFS traversal:
+A B C D E F 
